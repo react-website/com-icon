@@ -6,6 +6,13 @@
   "description": "基础图标库",
   "glyphs": [
     {
+      "icon_id": "15838508",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
       "icon_id": "10967522",
       "name": "定位",
       "font_class": "dingwei",
