@@ -6,6 +6,13 @@
   "description": "基础图标库",
   "glyphs": [
     {
+      "icon_id": "4936584",
+      "name": "app store-fill",
+      "font_class": "appstore-fill",
+      "unicode": "e853",
+      "unicode_decimal": 59475
+    },
+    {
       "icon_id": "6151089",
       "name": "all-fill",
       "font_class": "all-fill",
