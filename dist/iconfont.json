@@ -6,39 +6,32 @@
   "description": "基础图标库",
   "glyphs": [
     {
-      "icon_id": "577335",
-      "name": "订单",
-      "font_class": "dingdan",
-      "unicode": "e737",
-      "unicode_decimal": 59191
-    },
-    {
-      "icon_id": "577345",
-      "name": "客服",
-      "font_class": "kefu",
-      "unicode": "e741",
-      "unicode_decimal": 59201
-    },
-    {
-      "icon_id": "577350",
-      "name": "朋友",
+      "icon_id": "39480632",
+      "name": "friends",
       "font_class": "pengyou",
-      "unicode": "e746",
-      "unicode_decimal": 59206
+      "unicode": "e603",
+      "unicode_decimal": 58883
     },
     {
-      "icon_id": "577380",
-      "name": "物流",
+      "icon_id": "39480631",
+      "name": "logistics",
       "font_class": "wuliu",
-      "unicode": "e75f",
-      "unicode_decimal": 59231
+      "unicode": "e604",
+      "unicode_decimal": 58884
     },
     {
-      "icon_id": "750910",
-      "name": "男装",
-      "font_class": "nanzhuang",
-      "unicode": "e7b5",
-      "unicode_decimal": 59317
+      "icon_id": "39480629",
+      "name": "order",
+      "font_class": "dingdan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "39480630",
+      "name": "servicio",
+      "font_class": "kefu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
     },
     {
       "icon_id": "4936584",
